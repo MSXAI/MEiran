@@ -1,0 +1,59 @@
+h3 {
+    color: rgb(45, 10, 115);
+    font-style: italic;
+    padding: 0px;
+}
+
+h2 {
+    color: blueviolet;
+    margin: 22px;
+}
+
+input[type=text],
+input[type=email],
+input[type=password] {
+    background-color: white;
+    color: rgb(255, 5, 5);
+    border: 3px solid rgb(11, 233, 107);
+}
+
+input[type=submit] {
+    background-color: rgb(89, 89, 255);
+}
+
+div.radio {
+    color: rgb(0, 207, 222);
+}
+
+div.radio2 {
+    color: rgb(222, 0, 89);
+}
+
+div.sumbit {
+    margin: 53px 133px 36px 130px;
+}
+
+div.right {
+    margin: 0px 133px 36px 53px;
+}
+
+input:hover {
+    background-color: rgb(131, 255, 239);
+}
+
+div.box-modul {
+    background-color: rgb(237 237 237 / 68%);
+    width: 350px;
+    height: 830px;
+    padding: 13px 62px 91px 10px;
+    margin: 112px 155px 164px 1206px;
+    border: 7px solid #a3b2cc;
+}
+
+div.box2 {
+    margin: -30px 1px 1px 47px;
+}
+
+h3.h3-box {
+    float: right;
+}
